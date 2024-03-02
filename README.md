@@ -2,7 +2,7 @@
 
 ## Course Information
 
-** Institution: BRAC University
+**Institution: BRAC University**
 
 **Student: Mohammad Sakib Hossain**
 
