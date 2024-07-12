@@ -1,6 +1,5 @@
 # CSE713_BRAC_University
-
-# This repository contains the project code for the CSE713.
+This repository contains the project code for the Course: CSE713.
 
 ## Course Information
 
